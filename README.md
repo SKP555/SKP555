@@ -49,7 +49,7 @@ Cloud & DevOps engineer transitioning from frontend development, focused on buil
 
 ## 🤝 Let’s Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sonukrsna)
+- 🔗 [LinkedIn] (https://www.linkedin.com/in/sonukrsna)
 <!--
 **SKP555/SKP555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

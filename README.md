@@ -1,4 +1,4 @@
-# 🚀 Sonu Krishna | Cloud & DevOps Engineer
+# 🚀 Sonu Krishna | Cloud & DevOps
 
 Cloud & DevOps engineer transitioning from frontend development, focused on building scalable and automated infrastructure on AWS.
 
@@ -31,11 +31,21 @@ Cloud & DevOps engineer transitioning from frontend development, focused on buil
 
 ## 📌 Featured Projects
 
-### 🔹 *Work in Progress* *Coming Soon*
+### 🔹 End-to-End DevOps Pipeline with GitOps
 
-### 🔹 *Work in Progress* *Coming Soon*
+Fully automated CI/CD pipeline using Kubernetes, Docker, GitHub Actions, and Argo CD.
 
-### 🔹 *Work in Progress* *Coming Soon*
+- Built CI pipeline to automate build and image push  
+- Implemented GitOps deployment using Argo CD  
+- Deployed application on Kubernetes with self-healing and scaling  
+- Designed Service and Ingress for internal and external traffic routing  
+
+👉 [View Project](https://github.com/SKP555/golang-devops-project-sonu)
+
+![Architecture](https://raw.githubusercontent.com/SKP555/golang-devops-project-sonu/main/images/gitops-architecture.png)
+
+### 🔹 More projects coming soon
+
 
 ---
 
@@ -49,7 +59,7 @@ Cloud & DevOps engineer transitioning from frontend development, focused on buil
 
 ## 🤝 Let’s Connect
 
-- 🔗 [LinkedIn] (https://www.linkedin.com/in/sonukrsna)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sonukrsna)
 <!--
 **SKP555/SKP555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

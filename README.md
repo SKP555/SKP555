@@ -57,7 +57,9 @@
 ## 💻 Programming & Scripting
 - Python
 - Bash
-- Golang (learning)
+- Golang
+- Java
+- C #
 
 ---
 
